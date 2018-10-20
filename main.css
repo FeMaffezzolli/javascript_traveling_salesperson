@@ -1,0 +1,6 @@
+canvas {
+    display: flex;
+    justify-content: flex-end;
+     align-items: center;
+    border: solid black 1px;
+}
